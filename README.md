@@ -81,14 +81,6 @@ Cross-platform fitness tracking application.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamiryameen\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamiryameen\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 * 💼 LinkedIn: https://linkedin.com/in/aamir-yameen-7a3970116
